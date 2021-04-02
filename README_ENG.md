@@ -3,10 +3,10 @@ Student and lover of Software Engineering. 22 years old 👦. Dominican Republic
 
 I'm currently focused on improving my skills to obtain a challenging software engineering position in an organization that rewards dedication and proficiency in software development and systems architecture. Little by little I will be showing my progress. I'm preparing myself a lot to be part of this field.
 
-[Spanish](https://github.com/prodbygr/prodbygr/blob/main/README.md)
+[Español](https://github.com/prodbygr/prodbygr/blob/main/README.md)
 
-### Mis hobbies son: 
-Música 🎶, fúbol ⚽ y la tecnología 💻.
+### Hobbies: 
+Music 🎶, Soccer ⚽ and Technology 💻.
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -18,5 +18,5 @@ Música 🎶, fúbol ⚽ y la tecnología 💻.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-### Contacto
+### Contact
 [![Twitter](https://img.shields.io/badge/ProdByGR%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ProdByGR)
