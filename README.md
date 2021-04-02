@@ -6,7 +6,7 @@ Actualmente estoy enfocado en mejorar mis habilidades y asi obtener una posició
 [English](https://github.com/prodbygr/prodbygr/blob/main/README_ENG)
 
 ### Mis hobbies son: 
-Música 🎶, fúbol ⚽ y desarrollar nuevas habilidades 💻.
+Música 🎶, fúbol ⚽ y la tecnología 💻.
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
