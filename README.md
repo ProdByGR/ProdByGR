@@ -1,9 +1,7 @@
 ## @ProdByGR 👋
 Soy estudiante y amante de la Ingeniería en Software. Tengo 22 años. Soy de República Dominicana.
 
-Actualmente estoy enfocado en mejorar mis habilidades y asi obtener una posición de ingeniera de software desafiante en una organización que premia la dedicación y la competencia en el desarrollo de software y la arquitectura de sistemas. Poco a poco estaré mostrando mi progreso. Me encuentro preparandome mucho para formar parte de este campo laboral.
-
-Buscando 
+Actualmente estoy enfocado en mejorar mis habilidades y asi obtener una posición de ingeniera de software desafiante en una organización que premia la dedicación y la competencia en el desarrollo de software y la arquitectura de sistemas. Poco a poco estaré mostrando mi progreso. Me encuentro preparandome mucho para formar parte de este campo laboral. 
 
 [English](https://github.com/prodbygr/prodbygr/blob/main/README_ENG)
 
