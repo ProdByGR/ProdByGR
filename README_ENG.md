@@ -3,7 +3,7 @@ Student and lover of Software Engineering. 22 years old 👦. Dominican Republic
 
 I'm currently focused on improving my skills to obtain a challenging software engineering position in an organization that rewards dedication and proficiency in software development and systems architecture. Little by little I will be showing my progress. I'm preparing myself a lot to be part of this field.
 
-[English](https://github.com/prodbygr/prodbygr/blob/main/README_ENG)
+[Spanish](https://github.com/prodbygr/prodbygr/blob/main/README.md)
 
 ### Mis hobbies son: 
 Música 🎶, fúbol ⚽ y la tecnología 💻.
