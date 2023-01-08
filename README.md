@@ -16,7 +16,7 @@ Hello! I'm [GR](https://github.com/ProdByGR/) 👋, a software developer based i
 
 ## 📌 Pinned Repositories
 
-Come back latern :wink:
+Come back later :wink:
 
 ## 🧰 Technologies and Tools
 
